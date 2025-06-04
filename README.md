@@ -37,14 +37,14 @@ cardNumber: "1234abcd56789012"
 # if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 10) 
 
 A (price > 300)	B (discount > 0)	C (quantity > 10)	Резултат <br/>
-F	              F	              	F	              	F
-T	              F	              	F	              	T
-F	              T	              	F	              	T
-F	              F	              	T	              	T
-T	              T	              	F	              	T
-T	              F	              	T	              	T
-F	              T		              T	              	T
-T		            T		              T	              	T
+F	              F	              	F	              	F  <br/>
+T	              F	              	F	              	T  <br/>
+F	              T	              	F	              	T  <br/>
+F	              F	              	T	              	T  <br/>
+T	              T	              	F	              	T  <br/>
+T	              F	              	T	              	T  <br/>
+F	              T		              T	              	T  <br/>
+T		            T		              T	              	T  <br/>
 
 Минимум 8 тестови
 
