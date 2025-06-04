@@ -1,7 +1,7 @@
 # SI_2025_lab2_212125
 
-# 2. url od slikata
-![Alt text](FlowChart212125.png)
+# 2.FLOWCHART
+![flowchart](FlowChart212125.png)
 
 
 # 3. CC
@@ -36,7 +36,7 @@ cardNumber: "1234abcd56789012"
 
 # if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 10) 
 
-A (price > 300)	B (discount > 0)	C (quantity > 10)	Резултат <br/>
+A (price > 300)	  B (discount > 0)  	C (quantity > 10)  	Резултат <br/>
 F	              F	              	F	              	F  <br/>
 T	              F	              	F	              	T  <br/>
 F	              T	              	F	              	T  <br/>
