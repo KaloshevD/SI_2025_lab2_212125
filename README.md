@@ -37,14 +37,15 @@ cardNumber: "1234abcd56789012"
 # if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 10) 
 
 A (price > 300)	  B (discount > 0)  	C (quantity > 10)  	Резултат <br/>
-F&emsp;F&emsp;F&emsp;F  <br/>
-T&emsp;F&emsp;F&emsp;T  <br/>
-F&emsp;T&emsp;F&emsp;T  <br/>
-F&emsp;F&emsp;T&emsp;T  <br/>
-T&emsp;T&emsp;F&emsp;T  <br/>
-T&emsp;F&emsp;T&emsp;T  <br/>
-F&emsp;T&emsp;T&emsp;T  <br/>
-T&emsp;T&emsp;T&emsp;T  <br/>
+F&emsp;&emsp;&emsp;&emsp;&emsp;F&emsp;&emsp;&emsp;&emsp;&emsp;F&emsp;&emsp;&emsp;&emsp;&emsp;F  <br/>
+T&emsp;&emsp;&emsp;&emsp;&emsp;F&emsp;&emsp;&emsp;&emsp;&emsp;F&emsp;&emsp;&emsp;&emsp;&emsp;T  <br/>
+F&emsp;&emsp;&emsp;&emsp;&emsp;T&emsp;&emsp;&emsp;&emsp;&emsp;F&emsp;&emsp;&emsp;&emsp;&emsp;T  <br/>
+F&emsp;&emsp;&emsp;&emsp;&emsp;F&emsp;&emsp;&emsp;&emsp;&emsp;T&emsp;&emsp;&emsp;&emsp;&emsp;T  <br/>
+T&emsp;&emsp;&emsp;&emsp;&emsp;T&emsp;&emsp;&emsp;&emsp;&emsp;F&emsp;&emsp;&emsp;&emsp;&emsp;T  <br/>
+T&emsp;&emsp;&emsp;&emsp;&emsp;F&emsp;&emsp;&emsp;&emsp;&emsp;T&emsp;&emsp;&emsp;&emsp;&emsp;T  <br/>
+F&emsp;&emsp;&emsp;&emsp;&emsp;T&emsp;&emsp;&emsp;&emsp;&emsp;T&emsp;&emsp;&emsp;&emsp;&emsp;T  <br/>
+T&emsp;&emsp;&emsp;&emsp;&emsp;T&emsp;&emsp;&emsp;&emsp;&emsp;T&emsp;&emsp;&emsp;&emsp;&emsp;T  <br/>
+
 
 Минимум 8 тестови
 
