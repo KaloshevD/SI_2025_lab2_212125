@@ -36,7 +36,7 @@ cardNumber: "1234abcd56789012"
 
 # if (item.getPrice() > 300 || item.getDiscount() > 0 || item.getQuantity() > 10) 
 
-A (price > 300)	B (discount > 0)	C (quantity > 10)	Резултат
+A (price > 300)	B (discount > 0)	C (quantity > 10)	Резултат <br/>
 F	              F	              	F	              	F
 T	              F	              	F	              	T
 F	              T	              	F	              	T
