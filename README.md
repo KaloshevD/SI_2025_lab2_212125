@@ -1,7 +1,7 @@
 # SI_2025_lab2_212125
 
 # 2. url od slikata
-![Alt text](FlowchartPic.png)
+![Alt text](FlowChartPic.png)
 
 
 # 3. CC
